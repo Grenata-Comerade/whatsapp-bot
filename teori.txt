@@ -1,0 +1,6 @@
+Bot WhatsApp merupakan teknologi yang baru baru ini ada semenjak framework javascript bernama baileys atau @whiskeysockets/baileys.
+framework ini merupakan apikey whatsapp yang terhubung menggunakan server whatsapp, meskipun framework ini bukan resmi dari WhatsApp namun 
+gunakan dengan bijak, dan framework ini juga open source dan memiliki library code atau sumber kodenya bisa didapat di situs github atau situs npm (node package manager).
+framework ini berguna jika aplikasi WhatsApp kalian digunakan layanan sosial mapaun layanan masyarakat terbuka.
+Pelayanan bot ini digunakan layaknya administrasi untuk mempermudah pengguna, sehingga pengembang atau pemilik tidak perlu memberikan arahan berulang kali, 
+hanya bot whatsapp saja 
