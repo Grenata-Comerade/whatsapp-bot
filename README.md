@@ -1,1 +1,1 @@
-<h1><center>WhatsApp Bot</center><h1>
+# WhatsApp Bot Termux And Pterodactyl Panel Support
