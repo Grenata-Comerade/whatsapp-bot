@@ -1,2 +1,2 @@
 # WhatsApp Bot Termux And Pterodactyl Panel Support
-<p><center>test</center></p>
+<p style="text-align:center">test</p>
