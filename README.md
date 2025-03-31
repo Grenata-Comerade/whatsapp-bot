@@ -1,1 +1,1 @@
-# WhatsApp Bot Termux And Pterodactyl Panel Support
+# WhatsApp Bot Support Termux And Pterodactyl Panel 
